@@ -1,0 +1,26 @@
+{
+  "name": "jenkins-docker",
+  "version": "1.0.0",
+  "description": "Jenkins CI with docker client",
+  "website": "https://www.alagarbaa.com/",
+  "private": false,
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ala-garbaa-pro/jenkins-docker.git"
+  },
+  "keywords": [
+    "jenkins",
+    "docker",
+    "CI"
+  ],
+  "author": "Ala GARBAA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ala-garbaa-pro/jenkins-docker/issues"
+  },
+  "homepage": "https://github.com/ala-garbaa-pro/jenkins-docker#readme"
+}
